@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "133317329376",
+    "firebase_url": "https://francine-ecen-489-problem-8.firebaseio.com",
+    "project_id": "francine-ecen-489-problem-8",
+    "storage_bucket": "francine-ecen-489-problem-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133317329376:android:a8885ec25e2ecd2a",
+        "android_client_info": {
+          "package_name": "com.example.firebase2app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133317329376-5olo5qa0b02gvhgs29a8kas5jsupfo5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUpd8zFwmc5nlvHnmD9hIbMikQhkIJx8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
